@@ -1,0 +1,14 @@
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\BLL.dll
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Entity.dll
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\DAL.dll
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\BLL.pdb
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Entity.pdb
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\DAL.pdb
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\PresentacionConsola.csprojAssemblyReference.cache
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\PresentacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\PresentacionConsola.csproj.CopyComplete
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\Figuras.pdb

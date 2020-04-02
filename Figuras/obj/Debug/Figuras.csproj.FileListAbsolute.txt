@@ -1,0 +1,7 @@
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\Figuras.csprojAssemblyReference.cache
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\eto-palasio\source\repos\Figuras\Figuras\obj\Debug\Figuras.pdb
